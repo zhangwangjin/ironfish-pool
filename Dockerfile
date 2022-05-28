@@ -1,1 +1,1 @@
-From ghcr.io/rpanic/ironfish-pool:latest
+FROM ghcr.io/rpanic/ironfish-pool:latest
